@@ -1,16 +1,40 @@
 body {
     background-color: black;
     text-align: center;
+    font-family: Verdana;
 }
 
 h1 {
-    font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
+    margin: 33.5px 0;
 }
 
 h4 {
     color: aquamarine;
     font-size: 16px;
+    text-decoration: underline;
+    margin: 21px 0;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    margin: 34.86px 0;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+    margin: 21px 0;
+}
+
+.iphone {
+    margin: 21px 0;
+}
+
+h3#right {
+    float: right;
 }
